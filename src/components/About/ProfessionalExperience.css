@@ -1,0 +1,42 @@
+.experience-container {
+    justify-content: center;
+    padding-bottom: 50px;
+  }
+  
+  .experience-card {
+    background-color: #343a4000; /* Dark background color */
+    color: #fff; /* Light text color */
+    margin-bottom: 20px;
+    height: 100%; /* Ensure all cards have the same height */
+    border-color: rgb(91, 4, 191);
+    border-width: 3px;
+  }
+
+  .experience-card:hover {
+    border-color: rgb(52, 146, 189); /* Darker blue color on hover */
+    transform: scale(1.05);
+  }
+  
+  
+  .experience-card .card-body {
+    padding: 20px;
+  }
+
+  .experience-card .card-title {
+    font-size: 1.40rem;
+    color: rgb(184, 12, 184); /* Purple color for title */
+  }
+  
+
+
+  .experience-card .card-subtitle {
+    font-size: 1rem;
+    color: #467db8; /* Blue color for company */
+    margin-bottom: 10px;
+  }
+  
+  .experience-card .card-text {
+    font-size: 0.875rem;
+  }
+
+
