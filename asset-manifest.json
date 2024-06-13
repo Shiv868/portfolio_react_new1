@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio_react_new1/static/css/main.2a173de7.css",
+    "main.js": "/portfolio_react_new1/static/js/main.b694aacc.js",
+    "static/js/787.5c0b2d12.chunk.js": "/portfolio_react_new1/static/js/787.5c0b2d12.chunk.js",
+    "static/media/shiva_Resume_1.pdf": "/portfolio_react_new1/static/media/shiva_Resume_1.e8bf2b2db97d5485de1a.pdf",
+    "static/media/Fieldmate.png": "/portfolio_react_new1/static/media/Fieldmate.4946181f3b858421f42e.png",
+    "static/media/plant_virus.png": "/portfolio_react_new1/static/media/plant_virus.06fa9fa53bae1878a8e8.png",
+    "static/media/TreeEconomy.png": "/portfolio_react_new1/static/media/TreeEconomy.c836aed28b19b9af3749.png",
+    "static/media/Figma.png": "/portfolio_react_new1/static/media/Figma.d76548c5468b9f116d28.png",
+    "static/media/blog.png": "/portfolio_react_new1/static/media/blog.712ab0221046e23ff607.png",
+    "static/media/home-main.svg": "/portfolio_react_new1/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio_react_new1/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/IOT.png": "/portfolio_react_new1/static/media/IOT.89a3597a13f464b8df08.png",
+    "static/media/home-bg.jpg": "/portfolio_react_new1/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio_react_new1/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfolio_react_new1/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio_react_new1/index.html",
+    "main.2a173de7.css.map": "/portfolio_react_new1/static/css/main.2a173de7.css.map",
+    "main.b694aacc.js.map": "/portfolio_react_new1/static/js/main.b694aacc.js.map",
+    "787.5c0b2d12.chunk.js.map": "/portfolio_react_new1/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a173de7.css",
+    "static/js/main.b694aacc.js"
+  ]
+}
